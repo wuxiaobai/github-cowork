@@ -1,2 +1,2 @@
 # github-cowork
-利用 GitHub 实现协同工作的详细步骤说明
+利用 GitHub 进行协同工作的步骤说明 
