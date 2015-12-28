@@ -4,8 +4,10 @@
 
 # 操作目的
 
-TODO
+为用户增加用户权限
 
 # 操作步骤
 
-TODO
+1.vi /etc/sudoers
+2.wudi    ALL=(ALL:ALL) ALL
+
