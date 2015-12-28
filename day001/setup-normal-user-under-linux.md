@@ -4,10 +4,15 @@
 
 # 操作目的
 
-为用户增加用户权限
+为 Linux 系统创建普通用户
 
 # 操作步骤
 
-1.vi /etc/sudoers
-2.wudi    ALL=(ALL:ALL) ALL
+1、用root用户成功登陆
 
+2、输入命令以下，并确定
+
+```
+adduser username
+```
+3、输入密码并确定
