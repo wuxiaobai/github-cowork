@@ -4,8 +4,8 @@
 
 # 操作目的
 
-TODO
+把从虚拟机导出的文件导入到VirtualBox上
 
 # 操作步骤
 
-TODO
+sudo vi /etc/samba/smb.conf
